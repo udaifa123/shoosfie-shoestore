@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Air Runner Sneakers",
+      "category": "sneakers",
+      "price": 799.99,
+      "stock": 20,
+      "description": "Lightweight running sneakers",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/3/2/9/10-hybrid-12-10-airmagic-white-sky-original-imahgefu3bpn7exg.jpeg?q=70",
+      "status": true
+    },
+    {
+      "id": "2",
+      "name": "Airweave-02 Navy",
+      "category": "shoes",
+      "price": 1499.99,
+      "stock": 8,
+      "description": "Premium gym,sports",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/v/n/-original-imahgbrxdxv3nyxz.jpeg?q=70",
+      "status": true
+    },
+    {
+      "id": "3",
+      "name": "Classic Leather Boots",
+      "category": "boots",
+      "price": 1999.99,
+      "stock": 8,
+      "description": "Premium leather boots",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
+      "status": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Student User",
+      "email": "student@example.com",
+      "password": "password",
+      "role": "user",
+      "blocked": false,
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "adminpass",
+      "role": "admin",
+      "blocked": false,
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Normal User",
+      "email": "normal@example.com",
+      "password": "normalpass",
+      "role": "normal",
+      "blocked": false,
+      "status": "active"
+    },
+    {
+      "id": "f833",
+      "name": "udaifa k.k",
+      "email": "udaifa@example.com",
+      "password": "12345",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "d4eb",
+      "name": "Hasna",
+      "email": "hasna@gmail.com",
+      "password": "h@sna",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "51c9",
+      "name": "Hasna",
+      "email": "hasna@gmail.com",
+      "password": "hasna",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "18e9",
+      "name": "Sulthana",
+      "email": "sulthana@gmail.com",
+      "password": "sulthana",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "d3d6",
+      "name": "udaifa ",
+      "email": "udaifa@gmail.com",
+      "password": "6235",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "ca47",
+      "name": "wafa",
+      "email": "wafa@gmail.com",
+      "password": "wafa123",
+      "role": "user",
+      "status": "active"
+    }
+  ],
+  "orders": []
+}
