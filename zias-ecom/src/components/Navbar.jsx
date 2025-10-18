@@ -9,7 +9,7 @@ export default function Navbar() {
   
 
   useEffect(() => {
-    // setUser(JSON.parse(localStorage.getItem("user")));
+    
     setCartItems(JSON.parse(localStorage.getItem("cart")) || []);
   }, []);
 
@@ -20,9 +20,9 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="flex justify-between items-center px-6 py-4 bg-white shadow-md sticky top-0 z-50">
+    <nav className="flex justify-between items-center px-6 py-4 bg-white text-white shadow-md sticky top-0 z-50">
     
-      <Link to="/" className="font-bold text-2xl text-gray-800 text-white">
+      <Link to="/" className="font-bold text-2xl text-gray-800 hover:text-gray-400 transition-colors">
          Shoosfie 🛍️
       </Link>
       <div className="flex items-center gap-4">

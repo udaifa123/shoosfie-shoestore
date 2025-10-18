@@ -29,6 +29,176 @@
       "description": "Premium leather boots",
       "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
       "status": true
+    },
+    {
+      "id": "4",
+      "name": "Superstar || Shoes",
+      "category": "shoes",
+      "price": "₹9999.00",
+      "stock": 1,
+      "description": "Never out of style",
+      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
+      "status": true
+    },
+    {
+      "id": "5",
+      "name": "Spezial",
+      "category": "shoes",
+      "price": "₹1199.00",
+      "stock": 1,
+      "description": "Originals",
+      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_category_spezial3_d_280c4955e5.jpg",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "SL 72 RS Shoes",
+      "category": "shoes",
+      "price": "₹9999.00",
+      "stock": 1,
+      "description": "Originals",
+      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/bad9647ac68648c193681dac9a9f3475_9366/sl-72-rs-shoes.jpg",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "Defiant Speed 2 Tennis Shoes",
+      "category": "shoes",
+      "price": "₹9599.50",
+      "stock": 1,
+      "description": "Men Tennis Shoes",
+      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad2f544e4d324d6da218bde0bf5e8877_9366/defiant-speed-2-tennis-shoes.jpg",
+      "status": true
+    },
+    {
+      "id": "8",
+      "name": "Adizero EVO SL Shoes",
+      "category": "shoes",
+      "price": "₹9599.50",
+      "stock": 1,
+      "description": "Women Running",
+      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/1ace45f4151e414dba4e16b3ac67b1ea_9366/adizero-evo-sl-shoes.jpg",
+      "status": true
+    },
+    {
+      "id": "9",
+      "name": "Menz Multi-color-Oxford Shoes",
+      "category": "shoes",
+      "price": "₹1600.50",
+      "stock": 1,
+      "description": "Sports Shoes",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02bf2d18399499_1.jpg?rnd=20200526195200&tr=w-512",
+      "status": true
+    },
+    {
+      "id": "10",
+      "name": "Predator Sala Shoes",
+      "category": "shoes",
+      "price": "₹11999.00",
+      "stock": 1,
+      "description": "Originals",
+      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/11daa0bb9ecf4168932ae78070c26083_9366/predator-sala-shoes.jpg",
+      "status": true
+    },
+    {
+      "id": "11",
+      "name": "Shoetopia",
+      "category": "Sneakers",
+      "price": "₹800.00",
+      "stock": 3,
+      "description": "Women White Casual Sneakers",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/8/985f6adJM-25-Tan_1.jpg?rnd=20200526195200&tr=w-512",
+      "status": true
+    },
+    {
+      "id": "12",
+      "name": "Campus",
+      "category": "Twirl Women Mauve Sneakers",
+      "price": "₹940.00",
+      "stock": 3,
+      "description": "Lowest price ever",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/e/9e8959122L970MAUVELPINK_1.jpg?rnd=20200526195200&tr=w-512",
+      "status": true
+    },
+    {
+      "id": "13",
+      "name": "Shoetopia",
+      "category": "Sneakers",
+      "price": "₹800.00",
+      "stock": 3,
+      "description": "Dailywear White Casual Sneakers",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/9/b9bfd42JMHukumWhite_1.jpg?rnd=20200526195200&tr=w-512",
+      "status": true
+    },
+    {
+      "id": "14",
+      "name": "The Souled Store",
+      "category": " Women low Top Sneakers",
+      "price": "₹800.00",
+      "stock": 3,
+      "description": "Official urban Blaze",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/429cf6cTSSPA298891_1.jpg?tr=w-512",
+      "status": true
+    },
+    {
+      "id": "15",
+      "name": "High-quality leather penny loafers",
+      "category": "Shoes",
+      "price": "₹10,950.00",
+      "stock": 1,
+      "description": "LEATHER PENNY LOAFERS HARRY LAMBERT",
+      "image": "https://static.zara.net/assets/public/45de/7a7b/5dde4258b590/f1d2b8d2d827/12684620202-e1/12684620202-e1.jpg?ts=1758626701788&w=470",
+      "status": true
+    },
+    {
+      "id": "16",
+      "name": "COMBINED LEATHER EMBROIDERD BOOTS",
+      "category": "Boots",
+      "price": "₹9,550.00",
+      "stock": 3,
+      "description": "Cowboy Style",
+      "image": "https://static.zara.net/assets/public/e2f1/14bf/cc0d408ba234/4bd02169daa9/12102610202-e1/12102610202-e1.jpg?ts=1757950802332&w=328",
+      "status": true
+    },
+    {
+      "id": "17",
+      "name": "LEATHER FLOWER BALLERINAS",
+      "category": "Sneakers",
+      "price": "₹5,950.00",
+      "stock": 4,
+      "description": "Leather flat Shoes",
+      "image": "https://static.zara.net/assets/public/7008/41bb/95394f1fbd98/a071a77cc27a/13595510709-e1/13595510709-e1.jpg?ts=1758616091065&w=328",
+      "status": true
+    },
+    {
+      "id": "18",
+      "name": "ANKLE BOOTS WITH BUCKLE",
+      "category": "Boots",
+      "price": "₹800.00",
+      "stock": 3,
+      "description": "Back pull tab.Low block heel",
+      "image": "https://static.zara.net/assets/public/fdc5/1675/287a41baa431/7d9bf1bd2a7e/12150510116-000-e1/12150510116-000-e1.jpg?ts=1759751534744&w=328",
+      "status": true
+    },
+    {
+      "id": "19",
+      "name": "CHUNKY SOLE SHOES",
+      "category": "Shoes",
+      "price": "₹5,550.00",
+      "stock": 2,
+      "description": "Derby shoes. Smooth upper. Metal eyelets. Square toe. Chunky sole.",
+      "image": "https://static.zara.net/assets/public/bbbd/f5ba/211f48aaad47/44c1d6e4db1b/12410529800-e1/12410529800-e1.jpg?ts=1738250994505&w=328",
+      "status": true
+    },
+    {
+      "id": "20",
+      "name": "LEATHER TRAINERS",
+      "category": "Shoes",
+      "price": "₹5,950.00",
+      "stock": 3,
+      "description": "Retro-style lace-up trainers. Leather upper with a split suede finish. Contrast ultra-thin sole.",
+      "image": "https://static.zara.net/assets/public/e49c/1a78/600c4f2ba5b9/eb5965d3338a/12253629107-e1/12253629107-e1.jpg?ts=1759308144264&w=328",
+      "status": true
     }
   ],
   "users": [
@@ -108,5 +278,128 @@
       "status": "active"
     }
   ],
-  "orders": []
+  "orders": [
+    {
+      "id": "8ed7",
+      "userId": "d3d6",
+      "items": [
+        {
+          "id": "1",
+          "name": "Air Runner Sneakers",
+          "category": "sneakers",
+          "price": 799.99,
+          "stock": 20,
+          "description": "Lightweight running sneakers",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/3/2/9/10-hybrid-12-10-airmagic-white-sky-original-imahgefu3bpn7exg.jpeg?q=70",
+          "status": true
+        },
+        {
+          "id": "4",
+          "name": "Superstar || Shoes",
+          "category": "shoes",
+          "price": "₹9999.00",
+          "stock": 1,
+          "description": "Never out of style",
+          "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
+          "status": true
+        }
+      ],
+      "total": null,
+      "date": "2025-10-18T09:41:48.763Z"
+    },
+    {
+      "id": "b335",
+      "userId": "d3d6",
+      "items": [
+        {
+          "id": "3",
+          "name": "Classic Leather Boots",
+          "category": "boots",
+          "price": 1999.99,
+          "stock": 8,
+          "description": "Premium leather boots",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
+          "status": true
+        },
+        {
+          "id": "3",
+          "name": "Classic Leather Boots",
+          "category": "boots",
+          "price": 1999.99,
+          "stock": 8,
+          "description": "Premium leather boots",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
+          "status": true
+        }
+      ],
+      "total": null,
+      "date": "2025-10-18T10:10:07.943Z"
+    },
+    {
+      "id": "25bf",
+      "userId": "d3d6",
+      "items": [
+        {
+          "id": "4",
+          "name": "Superstar || Shoes",
+          "category": "shoes",
+          "price": "₹9999.00",
+          "stock": 1,
+          "description": "Never out of style",
+          "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
+          "status": true
+        },
+        {
+          "id": "3",
+          "name": "Classic Leather Boots",
+          "category": "boots",
+          "price": 1999.99,
+          "stock": 8,
+          "description": "Premium leather boots",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
+          "status": true
+        }
+      ],
+      "total": null,
+      "date": "2025-10-18T12:04:29.419Z"
+    },
+    {
+      "id": "32f4",
+      "userId": "d3d6",
+      "items": [
+        {
+          "id": "12",
+          "name": "Campus",
+          "category": "Twirl Women Mauve Sneakers",
+          "price": "₹940.00",
+          "stock": 3,
+          "description": "Lowest price ever",
+          "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/e/9e8959122L970MAUVELPINK_1.jpg?rnd=20200526195200&tr=w-512",
+          "status": true
+        },
+        {
+          "id": "17",
+          "name": "LEATHER FLOWER BALLERINAS",
+          "category": "Sneakers",
+          "price": "₹5,950.00",
+          "stock": 4,
+          "description": "Leather flat Shoes",
+          "image": "https://static.zara.net/assets/public/7008/41bb/95394f1fbd98/a071a77cc27a/13595510709-e1/13595510709-e1.jpg?ts=1758616091065&w=328",
+          "status": true
+        },
+        {
+          "id": "20",
+          "name": "LEATHER TRAINERS",
+          "category": "Shoes",
+          "price": "₹5,950.00",
+          "stock": 3,
+          "description": "Retro-style lace-up trainers. Leather upper with a split suede finish. Contrast ultra-thin sole.",
+          "image": "https://static.zara.net/assets/public/e49c/1a78/600c4f2ba5b9/eb5965d3338a/12253629107-e1/12253629107-e1.jpg?ts=1759308144264&w=328",
+          "status": true
+        }
+      ],
+      "total": null,
+      "date": "2025-10-18T12:34:08.968Z"
+    }
+  ]
 }

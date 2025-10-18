@@ -101,7 +101,7 @@ export default function Home() {
   const filtered = products.filter(
     (p) =>
       p.name?.toLowerCase().includes(search.toLowerCase()) &&
-      (category ? p.category === category : true) &&
+      (category ? p.category.toLowerCase()=== category.toLocaleLowerCase() : true) &&
       p.status === true
   );
 
@@ -120,12 +120,13 @@ export default function Home() {
           className="border border-gray-300 p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-400 text-gray-900"
         >
           <option value="">All Categories</option>
-          <option value="Running">Running</option>
-          <option value="Casual">Casual</option>
+          <option value="shoes">Shoes</option>
+          <option value="boots">Boots</option>
+          <option value="Sneakers">Sneaker</option>
         </select>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4  xl:grid-cols-5 gap-6">
         {filtered.map((p) => (
           <div
             key={p.id}

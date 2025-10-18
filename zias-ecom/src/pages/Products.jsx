@@ -90,10 +90,14 @@ export default function Products() {
   const categories = ["All", ...new Set(products.map(p => p.category))];
 
   const filteredProducts = [...products]
-    .filter(p => p.status === "active") 
+    .filter(p => p.status === true) 
     .filter(p => p.name.toLowerCase().includes(search.toLowerCase()))
-    .filter(p => category === "All" || p.category === category)
-    .sort((a, b) => (sortOrder === "asc" ? a.price - b.price : b.price - a.price));
+    .filter(p => category === "All" || p.category.toLowerCase() === category.toLowerCase())
+     .sort((a, b) => {
+    const priceA = typeof a.price === "string" ? parseFloat(a.price.replace(/[^0-9.]/g, "")) : a.price;
+    const priceB = typeof b.price === "string" ? parseFloat(b.price.replace(/[^0-9.]/g, "")) : b.price;
+    return sortOrder === "asc" ? priceA - priceB : priceB - priceA;
+  });
 
   return (
     <div className="p-6">
@@ -126,6 +130,22 @@ export default function Products() {
       </div>
 
       
+      <div className="flex gap-2 mb-4">
+        <button
+          onClick={() => setSortOrder("asc")}
+          className={`p-2 rounded ${sortOrder === "asc" ? "bg-blue-500 text-white" : "bg-gray-200"}`}
+        >
+          Price: Low to High
+        </button>
+        <button
+          onClick={() => setSortOrder("desc")}
+          className={`p-2 rounded ${sortOrder === "desc" ? "bg-blue-500 text-white" : "bg-gray-200"}`}
+        >
+          Price: High to Low
+        </button>
+      </div>
+
+      
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         {filteredProducts.length === 0 ? (
           <p className="text-gray-500 col-span-full text-center">
@@ -140,3 +160,5 @@ export default function Products() {
     </div>
   );
 }
+
+
