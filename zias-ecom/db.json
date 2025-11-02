@@ -2,159 +2,159 @@
   "products": [
     {
       "id": "1",
-      "name": "Air Runner Sneakers",
-      "category": "sneakers",
-      "price": 799.99,
-      "stock": 20,
-      "description": "Lightweight running sneakers",
-      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/3/2/9/10-hybrid-12-10-airmagic-white-sky-original-imahgefu3bpn7exg.jpeg?q=70",
+      "name": "Nike Shox R4",
+      "category": "Shoes",
+      "price": "13990.00",
+      "stock": 1,
+      "description": "A recrafted version of the early 2000s icon, the Nike Shox R4 replicates the original with its futuristic design lines and performance-like cushioning. Nike Shox columns in the heel distribute weight to maximise comfort while providing a bold look on the streets.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/11bf5b94-c31f-41a3-87dd-0705b7f4bb6c/NIKE+SHOX+R4.png",
       "status": true
     },
     {
       "id": "2",
-      "name": "Airweave-02 Navy",
-      "category": "shoes",
-      "price": 1499.99,
+      "name": "Nike Gato LV8",
+      "category": "Shoes",
+      "price": 9695.99,
       "stock": 8,
-      "description": "Premium gym,sports",
-      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/v/n/-original-imahgbrxdxv3nyxz.jpeg?q=70",
+      "description": "This beloved indoor football shoe is now primed and ready for the streets. This edition mixes breezy textiles with metallic overlays for an elevated look that's easy to style.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/f2b411aa-747a-4c6f-bb22-e05504fe5b62/NIKE+GATO+LV8.png",
       "status": true
     },
     {
       "id": "3",
-      "name": "Classic Leather Boots",
-      "category": "boots",
-      "price": 1999.99,
+      "name": "FLIGHT COURT",
+      "category": "Shoes",
+      "price": 8695.99,
       "stock": 8,
-      "description": "Premium leather boots",
-      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
+      "description": "black/metalic gold",
+      "image": "https://www.superkicks.in/cdn/shop/files/4-2025-10-15T172041.165.png?v=1760529234&width=1946",
       "status": true
     },
     {
       "id": "4",
-      "name": "Superstar || Shoes",
-      "category": "shoes",
-      "price": "₹9999.00",
+      "name": "SAMBA OG",
+      "category": "Shoes",
+      "price": "10999.00",
       "stock": 1,
-      "description": "Never out of style",
-      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
+      "description": "Gold metalic/white-core-white",
+      "image": "https://www.superkicks.in/cdn/shop/files/7_17.png?v=1755686879&width=1946",
       "status": true
     },
     {
       "id": "5",
-      "name": "Spezial",
-      "category": "shoes",
-      "price": "₹1199.00",
+      "name": "Nike P-6000",
+      "category": "Shoes",
+      "price": "7995.00",
       "stock": 1,
-      "description": "Originals",
-      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_category_spezial3_d_280c4955e5.jpg",
+      "description": "The Nike P-6000 draws on the 2006 Nike Air Pegasus, bringing you a mash-up of iconic style that's breathable, comfortable and evocative of that early-2000s vibe.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/c0bef76c-db55-40d4-a8e4-996c31f13f65/NIKE+P-6000.png",
       "status": true
     },
     {
       "id": "6",
-      "name": "SL 72 RS Shoes",
-      "category": "shoes",
-      "price": "₹9999.00",
+      "name": "CHUNKY SOLE TRAINERS",
+      "category": "Shoes",
+      "price": "7,950.00",
       "stock": 1,
-      "description": "Originals",
-      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/bad9647ac68648c193681dac9a9f3475_9366/sl-72-rs-shoes.jpg",
+      "description": "Lace-up trainers with a combined upper of various pieces and materials. Chunky sole with an irregular design.",
+      "image": "https://static.zara.net/assets/public/c5b0/4863/12c4481699f5/98a23ed31bce/12346629802-000-e1/12346629802-000-e1.jpg?ts=1758284865842&w=1024",
       "status": true
     },
     {
       "id": "7",
-      "name": "Defiant Speed 2 Tennis Shoes",
-      "category": "shoes",
-      "price": "₹9599.50",
+      "name": "LEATHER CHELSEA BOOTS",
+      "category": "Shoes",
+      "price": "9599.50",
       "stock": 1,
-      "description": "Men Tennis Shoes",
-      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad2f544e4d324d6da218bde0bf5e8877_9366/defiant-speed-2-tennis-shoes.jpg",
+      "description": "Chelsea boots made of leather. Featuring two elasticated side gores and a pull tab at the back for slipping on with ease. Rounded toes.",
+      "image": "https://static.zara.net/assets/public/af4a/6547/02f94da98627/85fc6d456fd4/12018420107-e1/12018420107-e1.jpg?ts=1723795471736&w=750",
       "status": true
     },
     {
       "id": "8",
-      "name": "Adizero EVO SL Shoes",
-      "category": "shoes",
-      "price": "₹9599.50",
+      "name": "METALLIC EFFECT TRAINERS",
+      "category": "Shoes",
+      "price": "3950.50",
       "stock": 1,
-      "description": "Women Running",
-      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/1ace45f4151e414dba4e16b3ac67b1ea_9366/adizero-evo-sl-shoes.jpg",
+      "description": "Trainers in a metallic effect. Contrast colour details. Rubber sole. Lace-up fastening. Round toe.",
+      "image": "https://static.zara.net/assets/public/e3e2/2366/2eab4388a2ad/28bbabd5b774/15900519808-e1/15900519808-e1.jpg?ts=1758616101857&w=1024",
       "status": true
     },
     {
       "id": "9",
-      "name": "Menz Multi-color-Oxford Shoes",
-      "category": "shoes",
-      "price": "₹1600.50",
+      "name": "Blktop Rider Vibrant Women's Sneakers",
+      "category": "Sneakers",
+      "price": "8695.50",
       "stock": 1,
-      "description": "Sports Shoes",
-      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/2/02bf2d18399499_1.jpg?rnd=20200526195200&tr=w-512",
+      "description": "The Blacktop Rider features a rubber outsole inspired by PUMA's track and field archive from the 80s. Heritage colors and materials meet modern design elements in this new classic silhouette.Style: 397321_05 Color: Alpine Snow-Desert Dust.",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/397321/05/sv01/fnd/IND/fmt/png/Blktop-Rider-Vibrant-Women's-Sneakers",
       "status": true
     },
     {
       "id": "10",
-      "name": "Predator Sala Shoes",
-      "category": "shoes",
-      "price": "₹11999.00",
-      "stock": 1,
-      "description": "Originals",
-      "image": "https://assets.adidas.com/images/w_766,h_766,f_auto,q_auto,fl_lossy,c_fill,g_auto/11daa0bb9ecf4168932ae78070c26083_9366/predator-sala-shoes.jpg",
+      "name": "Trinity Mid Hybrid Men's Lightweight Sneakers",
+      "category": "Sneakers",
+      "price": "4949.00",
+      "stock": 6,
+      "description": "Built for everyday adventure, this mid-cut sneaker takes cues from the outdoors. With layered mesh and webbing stitched into its design, it's a nod to trail-ready style, but made for the street. Whether you're hitting city pavements or weekend escapes, it’s got comfort and attitude in every step.Style: 392327_01 Color: PUMA Black-PUMA Black-Cool Dark Gray",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/392327/01/sv03/fnd/IND/fmt/png/Trinity-Mid-Hybrid-Men's-Lightweight-Sneakers",
       "status": true
     },
     {
       "id": "11",
-      "name": "Shoetopia",
-      "category": "Sneakers",
-      "price": "₹800.00",
+      "name": "Deviate NITRO™ Elite Men's Trail Running Shoes",
+      "category": "Shoes",
+      "price": "20999",
       "stock": 3,
-      "description": "Women White Casual Sneakers",
-      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/8/985f6adJM-25-Tan_1.jpg?rnd=20200526195200&tr=w-512",
+      "description": "With an ULTRAWEAVE upper, the Deviate NITRO™ Elite is designed to push boundaries on performance and distance. Featuring NITROFOAM™ ELITE cushioning, PWRPLATE for propulsion, and PUMAGRIP ATR rubber for unbeatable traction. Experience the ultimate blend of performance and innovation with Deviate NITRO™ Elite Trail.Style: 310034_04 Color: Green Terrain-Mint Melt",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/310034/04/sv01/fnd/IND/fmt/png/Deviate-NITRO%E2%84%A2-Elite-Men's-Trail-Running-Shoes",
       "status": true
     },
     {
       "id": "12",
-      "name": "Campus",
-      "category": "Twirl Women Mauve Sneakers",
-      "price": "₹940.00",
+      "name": "BMW M Motorsport A3rokart Mid Sneakers",
+      "category": "Sneakers",
+      "price": "9999",
       "stock": 3,
-      "description": "Lowest price ever",
-      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/e/9e8959122L970MAUVELPINK_1.jpg?rnd=20200526195200&tr=w-512",
+      "description": "Since 2012, PUMA Motorsport and BMW Motorsport have fashioned a formidable partnership, collaborating to create an array of thrilling fanwear and street-ready collections that embody the essence of the racing lifestyle. In addition to our fashion-forward designs, we take great pride in supplying the BMW Motorsport team with cutting-edge racewear, gloves, boots, and iconic pre-race team uniforms that are meticulously engineered to maximize and enhance the wearer's comfort and safety on the track.Feel the thrill of the track with the BMW M Motorsport A3rokart Mid Unisex Sneakers. These sneakers are a tribute to the cutting-edge aerodynamics of racing cars, designed with a sleek mid-height boot construction. They proudly display the BMW motorsport iconic colors and badge, symbolizing top-tier racing heritage. A secured ankle strap provides stability and support, mimicking the safety and precision of professional driving gear. The durable rubber outsole ensures excellent grip, while the NITRO™ midsole ensures uber cushioning, whether you're navigating the daily commute or enjoying a casual day out.Sizing Tip: For the best fit, we recommend buying one size larger than your usual size.Style: 308235_04 Color: PUMA White",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/308235/04/fnd/IND/fmt/png/BMW-M-Motorsport-A3rokart-Mid-Sneakers",
       "status": true
     },
     {
       "id": "13",
-      "name": "Shoetopia",
+      "name": "PUMA x ASTON MARTIN ARAMCO F1® TEAM Inverse Sneakers",
       "category": "Sneakers",
-      "price": "₹800.00",
+      "price": "11999",
       "stock": 3,
-      "description": "Dailywear White Casual Sneakers",
-      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/9/b9bfd42JMHukumWhite_1.jpg?rnd=20200526195200&tr=w-512",
+      "description": "The PUMA x ASTON MARTIN ARAMCO F1® TEAM collection redefines trackside style with a streetwear edge. Powered by speed and precision, this collection brings race-day tech into the rhythm of the streets. Streamlined design, bold attitude, and movement built into every detail - made to move fast, look sharp, and own the moment.Style: 309110_02 Color: PUMA White-Green Lux",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/309110/02/fnd/IND/fmt/png/PUMA-x-ASTON-MARTIN-ARAMCO-F1%C2%AE-TEAM-Inverse-Sneakers",
       "status": true
     },
     {
       "id": "14",
-      "name": "The Souled Store",
-      "category": " Women low Top Sneakers",
-      "price": "₹800.00",
+      "name": "TPUMA Club Kayzer Suede Sneakers",
+      "category": "Sneakers",
+      "price": "4199",
       "stock": 3,
-      "description": "Official urban Blaze",
-      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/429cf6cTSSPA298891_1.jpg?tr=w-512",
+      "description": "Draw attention with the PUMA Club Kayzer — a sneaker that blends timeless style with a fearless edge. Whether you're hitting the streets or making a statement, the Club Kayzer brings bold energy and comfort to every step.Style: 402606_04 Color: Haute Tropic-PUMA White",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/402606/04/fnd/IND/fmt/png/PUMA-Club-Kayzer-Suede-Sneakers",
       "status": true
     },
     {
       "id": "15",
-      "name": "High-quality leather penny loafers",
-      "category": "Shoes",
-      "price": "₹10,950.00",
-      "stock": 1,
-      "description": "LEATHER PENNY LOAFERS HARRY LAMBERT",
-      "image": "https://static.zara.net/assets/public/45de/7a7b/5dde4258b590/f1d2b8d2d827/12684620202-e1/12684620202-e1.jpg?ts=1758626701788&w=470",
+      "name": "WINTER LEATHER BOOTS",
+      "category": "Boots",
+      "price": "3950.00",
+      "stock": 3,
+      "description": "Cow leather boots with embroidered detail. Features an inner sheepskin lining. Side zip fastening. Flexible insole. Track-style rubber sole.",
+      "image": "https://static.zara.net/assets/public/afa3/2a1b/69a14dca9e5c/ce360f8c0d7f/16133630832-e1/16133630832-e1.jpg?ts=1756905605717&w=1125",
       "status": true
     },
     {
       "id": "16",
       "name": "COMBINED LEATHER EMBROIDERD BOOTS",
       "category": "Boots",
-      "price": "₹9,550.00",
+      "price": "9550.00",
       "stock": 3,
       "description": "Cowboy Style",
       "image": "https://static.zara.net/assets/public/e2f1/14bf/cc0d408ba234/4bd02169daa9/12102610202-e1/12102610202-e1.jpg?ts=1757950802332&w=328",
@@ -162,19 +162,19 @@
     },
     {
       "id": "17",
-      "name": "LEATHER FLOWER BALLERINAS",
-      "category": "Sneakers",
-      "price": "₹5,950.00",
+      "name": "Club Kayzer Superior Cushioning Casual Shoes",
+      "category": "Shoes",
+      "price": "4950.00",
       "stock": 4,
-      "description": "Leather flat Shoes",
-      "image": "https://static.zara.net/assets/public/7008/41bb/95394f1fbd98/a071a77cc27a/13595510709-e1/13595510709-e1.jpg?ts=1758616091065&w=328",
+      "description": "Draw attention with the PUMA Club Kayzer — a sneaker that blends timeless style with a fearless edge. Whether you're hitting the streets or making a statement, the Club Kayzer brings bold energy and comfort to every step.Style: 402603_01 Color: PUMA White-PUMA Black.",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/402603/01/sv01/fnd/IND/fmt/png/Club-Kayzer-Superior-Cushioning-Casual-Shoes",
       "status": true
     },
     {
       "id": "18",
       "name": "ANKLE BOOTS WITH BUCKLE",
       "category": "Boots",
-      "price": "₹800.00",
+      "price": "800.00",
       "stock": 3,
       "description": "Back pull tab.Low block heel",
       "image": "https://static.zara.net/assets/public/fdc5/1675/287a41baa431/7d9bf1bd2a7e/12150510116-000-e1/12150510116-000-e1.jpg?ts=1759751534744&w=328",
@@ -183,8 +183,8 @@
     {
       "id": "19",
       "name": "CHUNKY SOLE SHOES",
-      "category": "Shoes",
-      "price": "₹5,550.00",
+      "category": "Boots",
+      "price": "5550.00",
       "stock": 2,
       "description": "Derby shoes. Smooth upper. Metal eyelets. Square toe. Chunky sole.",
       "image": "https://static.zara.net/assets/public/bbbd/f5ba/211f48aaad47/44c1d6e4db1b/12410529800-e1/12410529800-e1.jpg?ts=1738250994505&w=328",
@@ -194,18 +194,218 @@
       "id": "20",
       "name": "LEATHER TRAINERS",
       "category": "Shoes",
-      "price": "₹5,950.00",
+      "price": "5950.00",
       "stock": 3,
       "description": "Retro-style lace-up trainers. Leather upper with a split suede finish. Contrast ultra-thin sole.",
       "image": "https://static.zara.net/assets/public/e49c/1a78/600c4f2ba5b9/eb5965d3338a/12253629107-e1/12253629107-e1.jpg?ts=1759308144264&w=328",
+      "status": true
+    },
+    {
+      "id": "21",
+      "name": "Nike Total 90",
+      "category": "Shoes",
+      "price": "9695.00",
+      "stock": 4,
+      "description": "Authentic football style, now made for every day. The Total 90 is back, delivering Y2K nostalgia with its original quilted upper and asymmetrical lacing. We swapped the studs for a flat rubber sole ready for the streets, and brought back a heritage colour palette ready for however you want to wear it.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/5dc83afa-3afb-40a4-940d-6d65e7cc89ef/TOTAL+90.png",
+      "status": true
+    },
+    {
+      "id": "22",
+      "name": "Nike Air Max Plus VII",
+      "category": "Shoes",
+      "price": "16995",
+      "stock": 3,
+      "description": "Let your attitude have the edge in this gradient edition of the Air Max Plus. Its iconic caging adds heat to your look while airy mesh keeps you cool. And the visible cushioning lets you celebrate your defiant style in comfort.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/863df1ad-e739-459b-a879-4c2c878ec442/NIKE+AIR+MAX+PLUS+VII.png",
+      "status": true
+    },
+    {
+      "id": "23",
+      "name": "Blktop Rider Suede Sneakers",
+      "category": "Sneakers",
+      "price": "5599.00",
+      "stock": 9,
+      "description": "Meet the newest member of the PUMA Rider family, the Blktop Rider, in which heritage colours and materials meet modern",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/392725/02/sv01/fnd/IND/fmt/png/Blktop-Rider-Suede-Sneakers",
+      "status": true
+    },
+    {
+      "id": "24",
+      "name": "Cricket Square Men's Shoes",
+      "category": "Shoes",
+      "price": "3950.00",
+      "stock": 5,
+      "description": "Engineered to withstand long hours out on the pitch, the Cricket Square Shoes do not disappoint when it comes to comfort and performance. With an ultra-soft & durable upper for superior comfort, a SoftFoam sockliner for cushioning and a multi-studded rubber outsole ensuring exceptional grip, you'll outscore the opposition with ease.Sizing Tip: For the best fit, we recommend buying one size larger than your usual size.Style: 107353_01 Color: PUMA White-Blue Glimmer-Elektro Green",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/107353/01/sv01/fnd/IND/fmt/png/Cricket-Square-Men's-Shoes",
+      "status": true
+    },
+    {
+      "id": "25",
+      "name": "Accelerate NITRO™ SQD UNTMD Handball Shoes",
+      "category": "Shoes",
+      "price": "12999.00",
+      "stock": 4,
+      "description": "Unleash your inner athlete with PUMA's latest handball shoes. Engineered for agility and speed, these shoes feature a 3D molded heel, PWRTAPE support, and NITRO SQD midsole. OrthoLite X35 HYBRID sockliner ensures every step feels like victory. Get ready to dominate.Style: 108415_01 Color: PUMA White-PUMA Black-Electric Peppermint-Lime Squeeze",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/108415/01/sv01/fnd/IND/fmt/png/Accelerate-NITRO%E2%84%A2-SQD-UNTMD-Handball-Shoes",
+      "status": true
+    },
+    {
+      "id": "26",
+      "name": "SL 72 OG Shoes",
+      "category": "Shoes",
+      "price": "10999.00",
+      "stock": 9,
+      "description": "Women originals",
+      "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/b81aa72487be4951b4b7f5c430bc413e_9366/SL_72_OG_Shoes_White_JS3978_01_00_standard.jpg",
+      "status": true
+    },
+    {
+      "id": "27",
+      "name": "Predator Sala Shoes",
+      "category": "Shoes",
+      "price": "11999.00",
+      "stock": 2,
+      "description": "Originals",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/acf57ce0574e4976a652e4e921219651_9366/Predator_Sala_Shoes_Black_JQ3917_01_00_standard.jpg",
+      "status": true
+    },
+    {
+      "id": "28",
+      "name": "9060",
+      "category": "Shoes",
+      "price": "17999",
+      "stock": 1,
+      "description": "Originals",
+      "image": "https://www.superkicks.in/cdn/shop/files/1-2025-10-29T155628.060.png?v=1761733615&width=1946",
+      "status": true
+    },
+    {
+      "id": "29",
+      "name": "471",
+      "category": "Shoes",
+      "price": "10999",
+      "stock": 3,
+      "description": "Originals",
+      "image": "https://www.superkicks.in/cdn/shop/files/1_e8d2d73b-0d72-44e2-8c79-99cb75a58724.png?v=1758270265&width=1946",
+      "status": true
+    },
+    {
+      "id": "30",
+      "name": "LeBron Witness 9",
+      "category": "Shoes",
+      "price": "3800",
+      "stock": 4,
+      "description": "Little Kids Basketball Shoes. When LeBron needs to give his all, he wants a shoe that can help him stay energized for a whole game and then some. With a full-length responsive cushioned midsole keeping him spry, the LeBron Witness 9 can help The King cross the finish line, fresh. The new ride complements a sleek, versatile design",
+      "image": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/7fa699a2-4538-45c1-94d2-828ae078a1ca/LEBRON+WITNESS+IX+KC+%28PS%29.png",
+      "status": true
+    },
+    {
+      "id": "31",
+      "name": "Nike Air Max Plus III",
+      "category": "Shoes",
+      "price": "17495",
+      "stock": 5,
+      "description": "The Nike Air Max Plus III combines ultra-comfortable Tuned Air Technology with an energetic silhouette made famous by its predecessors. The III updates the look with TPU details fused to the upper while paying homage to the iconic colour fade.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/aqcdmfttkq4cuvv9nuwx/AIR+MAX+PLUS+III.png",
+      "status": true
+    },
+    {
+      "id": "32",
+      "name": "Nike Air Max TL 2.5",
+      "category": "Shoes",
+      "price": "169995.00",
+      "stock": 1,
+      "description": "Reviving a late '90s fave, the Air Max TL 2.5 brings back the iconic wavy Air Max aesthetic. Airy textiles fuse with smooth synthetic leather for a clean finish, while full-length Max Air cushioning brings a bouncy feel to every step.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/b3a3e958-f025-4822-b085-fb1d072dfa09/AIR+MAX+TL+2.5.png",
+      "status": true
+    },
+    {
+      "id": "33",
+      "name": "740",
+      "category": "shoes",
+      "price": "13999",
+      "stock": 2,
+      "description": "Originals",
+      "image": "https://www.superkicks.in/cdn/shop/files/1_b270b701-273f-4880-bd76-d191ae398412.png?v=1757423731&width=1946",
+      "status": true
+    },
+    {
+      "id": "34",
+      "name": "Nike Air Max Plus G x Eastside Golf",
+      "category": "shoes",
+      "price": "18595",
+      "stock": 3,
+      "description": "Nike and Eastside Golf's 'Take Flight' collection symbolises golf and community rising higher together, breaking new boundaries and setting new standards for what the sport can be. The Air Max Plus G x Eastside Golf features a spikeless integrated traction that performs just as well on the course as it does in the city. The iconic TPU cage spells out 'Eastside Golf' while the logo on the tongue label adds a special nod.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/545bfadf-e33a-4877-bfb5-a86dfbd1e2c7/NIKE+AIR+MAX+PLUS+G+NRG.png",
+      "status": true
+    },
+    {
+      "id": "35",
+      "name": "Nike Air Max Plus",
+      "category": "shoes",
+      "price": "14995",
+      "stock": 2,
+      "description": "Let your attitude have the edge in the Air Max Plus. Its iconic caging adds heat to your look while airy mesh keeps you cool. And the visible cushioning lets you celebrate your defiant style in comfort.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/25811d76-7a1b-4645-beeb-e4a323e1feb7/NIKE+AIR+MAX+PLUS.png",
+      "status": true
+    },
+    {
+      "id": "36",
+      "name": "Nike Air Force 1 '07 LV8",
+      "category": "shoes",
+      "price": "10795",
+      "stock": 4,
+      "description": "Comfortable, durable and timeless—it's number one for a reason. The classic '80s construction is paired with premium materials for style that tracks whether you're on court or on the go.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/190e6181-0849-4acd-b053-44ead93851e7/AIR+FORCE+1+%2707+LV8.png",
+      "status": true
+    },
+    {
+      "id": "e751",
+      "name": "Nike Shox Ride 2",
+      "category": "Shoes",
+      "price": 15990,
+      "stock": 5,
+      "description": "A modern classic, this Nike Shox Ride 2 offers outstanding responsive cushioning with four columns of support under its heel and Max Air technology in the forefoot. And the breathable textile and genuine leather upper is comfortable and durable.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/1cbcc3f2-2ea4-4a9c-a1f0-74c661d9f3c9/NIKE+SHOX+RIDE+2.png",
+      "status": true
+    },
+    {
+      "id": "20d5",
+      "name": "Air Force 1 '07 RealTree",
+      "category": "shoes",
+      "price": "10795.00",
+      "stock": 4,
+      "description": "Comfortable, durable and timeless—it's number one for a reason. This Air Force 1 pairs its classic silhouette with Realtree® camo pattern for durability and style.",
+      "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/a362b9a7-a934-49c3-8638-7864dc7a738c/AIR+FORCE+1+%2707.png",
+      "status": true
+    },
+    {
+      "id": "37",
+      "name": "GEL-KAYANO 12.1",
+      "category": "shoes",
+      "price": "14999.00",
+      "stock": 4,
+      "description": "White Pure Silver/Originals",
+      "image": "https://www.superkicks.in/cdn/shop/files/1_699e3a38-2d93-411e-a25a-acfa9e9a2e40.png?v=1759949961&width=1946",
+      "status": true
+    },
+    {
+      "id": "38",
+      "name": "X CECILIE BAHNSEN GEL-CUMULUS 16 SSCB",
+      "category": "shoes",
+      "price": "16999.00",
+      "stock": 4,
+      "description": "Ivory/Black/Originals",
+      "image": "https://www.superkicks.in/cdn/shop/files/1_97.png?v=1757316437&width=1946",
       "status": true
     }
   ],
   "users": [
     {
       "id": "1",
-      "name": "Student User",
-      "email": "student@example.com",
+      "name": "Udaifa",
+      "email": "udaifa@gmail.com",
       "password": "password",
       "role": "user",
       "blocked": false,
@@ -225,17 +425,19 @@
       "name": "Normal User",
       "email": "normal@example.com",
       "password": "normalpass",
-      "role": "normal",
+      "role": "user",
       "blocked": false,
-      "status": "active"
+      "status": "active",
+      "active": false
     },
     {
       "id": "f833",
-      "name": "udaifa k.k",
-      "email": "udaifa@example.com",
+      "name": "huzaifa",
+      "email": "huzaifa@example.com",
       "password": "12345",
       "role": "user",
-      "status": "active"
+      "status": "active",
+      "blocked": false
     },
     {
       "id": "d4eb",
@@ -265,7 +467,7 @@
       "id": "d3d6",
       "name": "udaifa ",
       "email": "udaifa@gmail.com",
-      "password": "6235",
+      "password": "ud@ifa00",
       "role": "user",
       "status": "active"
     },
@@ -276,130 +478,161 @@
       "password": "wafa123",
       "role": "user",
       "status": "active"
+    },
+    {
+      "id": "bc90",
+      "name": "aleema",
+      "email": "haleema@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "2247",
+      "name": "Ayshaahh",
+      "email": "ayshah@gmail.com",
+      "password": "Aysha123",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "f82b",
+      "name": "Unaisa",
+      "email": "unaisa@gmail.com",
+      "password": "una@isa123",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "d55d",
+      "name": "noorah",
+      "email": "noorah@gmail.com",
+      "password": "noor@h123",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "4ac0",
+      "name": "mehwish",
+      "email": "mehwish@gmail.com",
+      "password": "mehwish@123",
+      "role": "user",
+      "status": "active"
+    },
+    {
+      "id": "d96d",
+      "name": "udaifa",
+      "email": "udaifa12@gmail.com",
+      "password": "ud@ifa00",
+      "role": "user",
+      "status": "active"
     }
   ],
   "orders": [
     {
-      "id": "8ed7",
-      "userId": "d3d6",
+      "id": 1762089952011,
+      "customerName": "udaifa@gmail.com",
+      "address": "kannur",
       "items": [
         {
-          "id": "1",
-          "name": "Air Runner Sneakers",
-          "category": "sneakers",
-          "price": 799.99,
-          "stock": 20,
-          "description": "Lightweight running sneakers",
-          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/3/2/9/10-hybrid-12-10-airmagic-white-sky-original-imahgefu3bpn7exg.jpeg?q=70",
-          "status": true
-        },
-        {
-          "id": "4",
-          "name": "Superstar || Shoes",
-          "category": "shoes",
-          "price": "₹9999.00",
-          "stock": 1,
-          "description": "Never out of style",
-          "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
-          "status": true
+          "id": "22",
+          "name": "Nike Air Max Plus VII",
+          "category": "Shoes",
+          "price": "16995",
+          "stock": 3,
+          "description": "Let your attitude have the edge in this gradient edition of the Air Max Plus. Its iconic caging adds heat to your look while airy mesh keeps you cool. And the visible cushioning lets you celebrate your defiant style in comfort.",
+          "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/863df1ad-e739-459b-a879-4c2c878ec442/NIKE+AIR+MAX+PLUS+VII.png",
+          "status": true,
+          "quantity": 1
         }
       ],
-      "total": null,
-      "date": "2025-10-18T09:41:48.763Z"
+      "total": 16995,
+      "date": "2025-11-02T13:25:52.011Z",
+      "status": "Processing"
     },
     {
-      "id": "b335",
-      "userId": "d3d6",
-      "items": [
-        {
-          "id": "3",
-          "name": "Classic Leather Boots",
-          "category": "boots",
-          "price": 1999.99,
-          "stock": 8,
-          "description": "Premium leather boots",
-          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
-          "status": true
-        },
-        {
-          "id": "3",
-          "name": "Classic Leather Boots",
-          "category": "boots",
-          "price": 1999.99,
-          "stock": 8,
-          "description": "Premium leather boots",
-          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
-          "status": true
-        }
-      ],
-      "total": null,
-      "date": "2025-10-18T10:10:07.943Z"
-    },
-    {
-      "id": "25bf",
-      "userId": "d3d6",
-      "items": [
-        {
-          "id": "4",
-          "name": "Superstar || Shoes",
-          "category": "shoes",
-          "price": "₹9999.00",
-          "stock": 1,
-          "description": "Never out of style",
-          "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto:best,fl_lossy/if_w_gt_800,w_800/global_superstar_originals_fw25_launch_hp_navigation_card_teaser_superstar1_d_32c1f906ca.jpg",
-          "status": true
-        },
-        {
-          "id": "3",
-          "name": "Classic Leather Boots",
-          "category": "boots",
-          "price": 1999.99,
-          "stock": 8,
-          "description": "Premium leather boots",
-          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/j/t/m/-original-imahd2zbwyjrwphc.jpeg?q=70",
-          "status": true
-        }
-      ],
-      "total": null,
-      "date": "2025-10-18T12:04:29.419Z"
-    },
-    {
-      "id": "32f4",
-      "userId": "d3d6",
+      "id": 1762090143387,
+      "customerName": "udaifa@gmail.com",
+      "address": "kannur",
       "items": [
         {
           "id": "12",
-          "name": "Campus",
-          "category": "Twirl Women Mauve Sneakers",
-          "price": "₹940.00",
-          "stock": 3,
-          "description": "Lowest price ever",
-          "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/e/9e8959122L970MAUVELPINK_1.jpg?rnd=20200526195200&tr=w-512",
-          "status": true
-        },
-        {
-          "id": "17",
-          "name": "LEATHER FLOWER BALLERINAS",
+          "name": "BMW M Motorsport A3rokart Mid Sneakers",
           "category": "Sneakers",
-          "price": "₹5,950.00",
-          "stock": 4,
-          "description": "Leather flat Shoes",
-          "image": "https://static.zara.net/assets/public/7008/41bb/95394f1fbd98/a071a77cc27a/13595510709-e1/13595510709-e1.jpg?ts=1758616091065&w=328",
-          "status": true
-        },
-        {
-          "id": "20",
-          "name": "LEATHER TRAINERS",
-          "category": "Shoes",
-          "price": "₹5,950.00",
+          "price": "9999",
           "stock": 3,
-          "description": "Retro-style lace-up trainers. Leather upper with a split suede finish. Contrast ultra-thin sole.",
-          "image": "https://static.zara.net/assets/public/e49c/1a78/600c4f2ba5b9/eb5965d3338a/12253629107-e1/12253629107-e1.jpg?ts=1759308144264&w=328",
-          "status": true
+          "description": "Since 2012, PUMA Motorsport and BMW Motorsport have fashioned a formidable partnership, collaborating to create an array of thrilling fanwear and street-ready collections that embody the essence of the racing lifestyle. In addition to our fashion-forward designs, we take great pride in supplying the BMW Motorsport team with cutting-edge racewear, gloves, boots, and iconic pre-race team uniforms that are meticulously engineered to maximize and enhance the wearer's comfort and safety on the track.Feel the thrill of the track with the BMW M Motorsport A3rokart Mid Unisex Sneakers. These sneakers are a tribute to the cutting-edge aerodynamics of racing cars, designed with a sleek mid-height boot construction. They proudly display the BMW motorsport iconic colors and badge, symbolizing top-tier racing heritage. A secured ankle strap provides stability and support, mimicking the safety and precision of professional driving gear. The durable rubber outsole ensures excellent grip, while the NITRO™ midsole ensures uber cushioning, whether you're navigating the daily commute or enjoying a casual day out.Sizing Tip: For the best fit, we recommend buying one size larger than your usual size.Style: 308235_04 Color: PUMA White",
+          "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_750,h_750/global/308235/04/fnd/IND/fmt/png/BMW-M-Motorsport-A3rokart-Mid-Sneakers",
+          "status": true,
+          "quantity": 1
         }
       ],
-      "total": null,
-      "date": "2025-10-18T12:34:08.968Z"
+      "total": 9999,
+      "date": "2025-11-02T13:29:03.387Z",
+      "status": "Processing"
+    },
+    {
+      "id": 1762090183828,
+      "customerName": "udaifa@gmail.com",
+      "address": "kannur",
+      "items": [
+        {
+          "id": "2",
+          "name": "Nike Gato LV8",
+          "category": "Shoes",
+          "price": 9695.99,
+          "stock": 8,
+          "description": "This beloved indoor football shoe is now primed and ready for the streets. This edition mixes breezy textiles with metallic overlays for an elevated look that's easy to style.",
+          "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/f2b411aa-747a-4c6f-bb22-e05504fe5b62/NIKE+GATO+LV8.png",
+          "status": true,
+          "quantity": 1
+        }
+      ],
+      "total": 9695.99,
+      "date": "2025-11-02T13:29:43.828Z",
+      "status": "Processing"
+    },
+    {
+      "id": 1762090212542,
+      "customerName": "udaifa@gmail.com",
+      "address": "swdvfxg",
+      "items": [
+        {
+          "id": "3",
+          "name": "FLIGHT COURT",
+          "category": "Shoes",
+          "price": 8695.99,
+          "stock": 8,
+          "description": "black/metalic gold",
+          "image": "https://www.superkicks.in/cdn/shop/files/4-2025-10-15T172041.165.png?v=1760529234&width=1946",
+          "status": true,
+          "quantity": 1
+        }
+      ],
+      "total": 8695.99,
+      "date": "2025-11-02T13:30:12.542Z",
+      "status": "Processing"
+    },
+    {
+      "id": 1762090260028,
+      "customerName": "udaifa@gmail.com",
+      "address": "ssdfre",
+      "items": [
+        {
+          "id": "2",
+          "name": "Nike Gato LV8",
+          "category": "Shoes",
+          "price": 9695.99,
+          "stock": 8,
+          "description": "This beloved indoor football shoe is now primed and ready for the streets. This edition mixes breezy textiles with metallic overlays for an elevated look that's easy to style.",
+          "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/f2b411aa-747a-4c6f-bb22-e05504fe5b62/NIKE+GATO+LV8.png",
+          "status": true,
+          "quantity": 1
+        }
+      ],
+      "total": 9695.99,
+      "date": "2025-11-02T13:31:00.028Z",
+      "status": "Processing"
     }
   ]
 }
